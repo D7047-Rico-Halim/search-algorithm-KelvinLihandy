@@ -10,7 +10,6 @@ graph = {
     'D':[('F', 2)],
     'E':[('F', 1)],
     'F':[('G', 3)],
-    'G':[]
 }
 
 # Declare the heuristic values for each node
