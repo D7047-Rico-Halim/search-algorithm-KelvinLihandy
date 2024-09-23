@@ -10,5 +10,5 @@ Tugas:
 2. lakukan pytest
 3. jika seluruh rangkaian test sukses, silahkan push dengan cara
     - git add .
-    - git commit -m "Nama - NIM"
+    - git commit -m 'Nama - NIM'
     - git push origin main
